@@ -1,0 +1,91 @@
+	
+	{
+	"ServerName":"Irrenhaus",
+	"ButtonTxt1":"Regeln",
+	"ButtonTxt2":"",
+	"ButtonTxt3":"",
+	"ButtonTxt4":"",
+	"ButtonTxt5":"",
+	"LinkButtonTxt1":"Website",
+	"LinkButtonTxt2":"Discord",
+	"LinkButtonTxt3":"",
+	"LinkButtonTxt4":"",
+	"LinkButtonTxt5":"",
+	"LinkButton1":"https://website.irrenhaus.tech/",
+	"LinkButton2":"https://discord.irrenhaus.tech/",
+	"Link1Button3":"",
+	"Link2Button3":"",
+	"Link3Button3":"",
+	"Link4Button3":"",
+	"Link1Button4":"",
+	"Link2Button4":"",
+	"Link3Button4":"",
+	"Link4Button4":"",
+	"Link1Button5":"",
+	"Link2Button5":"",
+	"Link3Button5":"",
+	"Link4Button5":"",
+	"Tab1Panelcount":1,
+	"Tab2Panelcount":1,
+	"Tab3Panelcount":1,
+	"Tab4Panelcount":1,
+	"Tab5Panelcount":1,
+	"BackgroundTab1":1,
+	"BackgroundTab2":0,
+	"BackgroundTab3":0,
+	"BackgroundTab4":0,
+	"BackgroundTab5":0,
+	"Background3Color":"",
+	"FontColorButtons":"",
+	"FontColorServerName":"",
+	"FontColorTabTitles":"",
+	"FontColorTabText":"",
+	"UseSteamBrowserLink1":true,
+	"UseSteamBrowserLink2":true,
+	"Tab1Title1":"Server Regeln",
+	"Tab1Title2":"",
+	"Tab1Title3":"",
+	"Tab2Title1":"",
+	"Tab2Title2":"",
+	"Tab2Title3":"",
+	"Tab3Title1":"",
+	"Tab3Title2":"",
+	"Tab3Title3":"",
+	"Tab4Title1":"",
+	"Tab4Title2":"",
+	"Tab4Title3":"",
+	"Tab5Title1":"",
+	"Tab5Title2":"",
+	"Tab5Title3":"",
+	"Tab1Text1":"Kein Bug abuse
+Kein Glitchen, Ausnutzen von Fehlern (Exploits), Meshing, Bugs oder andere Mod-Ausnutzungen.
+
+Seid freundlich zueinander
+Kein Rassismus, Sexismus oder Hassrede sowie keine Belästigung oder persönlichen Angriffe gegenüber anderen Spielern, weder im Spiel noch auf Discord.
+Dies erstreckt sich auch auf Discord- und Ingame-Namen bzw. Aliasse.
+
+Kein Resource blocking
+Kein Blockieren oder Verhindern des Zugangs zu Loot-Kisten oder Artefakt-Spawns sowie andere relevante Resourcen-Spawns.
+
+Kein Griefing
+Kein Griefing - das absichtliche und wiederholte Behinderndes von anderen Spielern, um ihr Spielerlebnis zu verderben.
+
+Bitte beachte diese Regeln sorgfältig, um ein faires und angenehmes Spielerlebnis für alle auf dem Server zu gewährleisten. 
+Verstöße gegen diese Regeln können zu Sanktionen führen. 
+
+Vielen Dank für deine Kooperation!",
+	"Tab1Text2":"",
+	"Tab1Text3":"",
+	"Tab2Text1":"",
+	"Tab2Text2":"",
+	"Tab2Text3":"",
+	"Tab3Text1":"",
+	"Tab3Text2":"",
+	"Tab3Text3":"",
+	"Tab4Text1":"",
+	"Tab4Text2":"",
+	"Tab4Text3":"",
+	"Tab5Text1":"",
+	"Tab5Text2":"",
+	"Tab5Text3":""
+	}
