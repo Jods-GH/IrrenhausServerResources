@@ -110,3 +110,9 @@ jobs:
       with:
         name: MSIX Package
         path: ${{ env.Wap_Project_Directory }}\AppPackages
+    - name: Publish
+      uses: softprops/action-gh-release@v1
+      with:
+        files: "App*"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
