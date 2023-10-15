@@ -61,8 +61,8 @@ jobs:
     env:
       Solution_Name: DiscordQueryBot.sln                         # Replace with your solution name, i.e. MyWpfApp.sln.
       Test_Project_Path: DiscordQueryBot/               # Replace with the path to your test project, i.e. MyWpfApp.Tests\MyWpfApp.Tests.csproj.
-      Wap_Project_Directory: DiscordQueryBot/    # Replace with the Wap project directory relative to the solution, i.e. MyWpfApp.Package.
-      Wap_Project_Path: DiscordQueryBot/                  # Replace with the path to your Wap project, i.e. MyWpf.App.Package\MyWpfApp.Package.wapproj.
+      Wap_Project_Directory: DiscordQueryPackaging/    # Replace with the Wap project directory relative to the solution, i.e. MyWpfApp.Package.
+      Wap_Project_Path: DiscordQueryPackaging/                  # Replace with the path to your Wap project, i.e. MyWpf.App.Package\MyWpfApp.Package.wapproj.
 
     steps:
     - name: Checkout
@@ -75,7 +75,19 @@ jobs:
       uses: actions/setup-dotnet@v3
       with:
         dotnet-version: 6.0.x
-    
+
+    - name: Install dependencies
+      run: dotnet add package A2S 
+    - name: Install dependencies
+      run: dotnet add package Discord.Net
+    - name: Install dependencies
+      run: dotnet add package LightDB
+    - name: Install dependencies
+      run: dotnet add package LiteDB
+    - name: Install dependencies
+      run: dotnet add package SteamStorefrontAPI
+    - name: Install dependencies
+      run: dotnet add package Microsoft.Windows.SDK.BuildTools
     # Add  MSBuild to the PATH: https://github.com/microsoft/setup-msbuild
     - name: Setup MSBuild.exe
       uses: microsoft/setup-msbuild@v1.0.2
