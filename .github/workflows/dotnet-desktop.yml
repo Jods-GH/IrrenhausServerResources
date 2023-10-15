@@ -76,18 +76,6 @@ jobs:
       with:
         dotnet-version: 6.0.x
 
-    - name: Install dependencies
-      run: dotnet add package A2S 
-    - name: Install dependencies
-      run: dotnet add package Discord.Net
-    - name: Install dependencies
-      run: dotnet add package LightDB
-    - name: Install dependencies
-      run: dotnet add package LiteDB
-    - name: Install dependencies
-      run: dotnet add package SteamStorefrontAPI
-    - name: Install dependencies
-      run: dotnet add package Microsoft.Windows.SDK.BuildTools
     # Add  MSBuild to the PATH: https://github.com/microsoft/setup-msbuild
     - name: Setup MSBuild.exe
       uses: microsoft/setup-msbuild@v1.0.2
