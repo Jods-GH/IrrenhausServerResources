@@ -9,11 +9,11 @@
   <Identity
     Name="d1897bbf-1d3c-4a02-95a7-951120e88e47"
     Publisher="CN=Flodi"
-    Version="1.0.3.0" />
+    Version="1.0.6.0" />
 
   <Properties>
     <DisplayName>DiscordQueryPackaging</DisplayName>
-    <PublisherDisplayName>Flodi</PublisherDisplayName>
+    <PublisherDisplayName>Jods</PublisherDisplayName>
     <Logo>Images\StoreLogo.png</Logo>
   </Properties>
 
