@@ -3,7 +3,7 @@
   <PropertyGroup>
     <UapAppxPackageBuildMode>SideloadOnly</UapAppxPackageBuildMode>
     <AppxShowAllApps>False</AppxShowAllApps>
-    <AppxBuildConfigurationSelection>neutral</AppxBuildConfigurationSelection>
+    <AppxBuildConfigurationSelection>x86</AppxBuildConfigurationSelection>
     <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
