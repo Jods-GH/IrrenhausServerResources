@@ -1,0 +1,33 @@
+{
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": false,
+        "HideIconAfter": 60,
+        "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+        "DisableIconText": false,
+        "IconPosition": 0,
+        "IconTextColor": 0,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+         "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "1 Box layout",
+          "title1": "title",
+          "text1": "This text goes into the box",
+          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Link to Wiki",
+          "url": "https://github.com/DC-Modding/WBUI2-Wiki/wiki"
+        }
+      }
+    ]
+}
