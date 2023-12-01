@@ -3,7 +3,7 @@
         "OpenButton": 0,
         "HideIcon": false,
         "HideIconAfter": 60,
-        "IconURL": "https://i.imgur.com/a/LJFNSVM",
+        "IconURL": "https://i.imgur.com/a/LJFNSVM.png",
         "DisableIconText": false,
         "IconPosition": 0,
         "IconTextColor": 0,
@@ -18,15 +18,15 @@
           "buttontext": "1 Box layout",
           "title1": "Irrenhaus",
           "text1": "Kein Bug abuse\nKein Glitchen, Ausnutzen von Fehlern (Exploits), Meshing, Bugs oder andere Mod-Ausnutzungen.\n Seid freundlich zueinander\nKein Rassismus, Sexismus oder Hassrede sowie keine Belästigung oder persönlichen Angriffe gegenüber anderen Spielern, weder im Spiel noch auf Discord.\nDies erstreckt sich auch auf Discord- und Ingame-Namen bzw. Aliasse.\nKein Resource blocking\nKein Blockieren oder Verhindern des Zugangs zu Loot-Kisten oder Artefakt-Spawns sowie andere relevante Resourcen-Spawns.\nKein Griefing\nKein Griefing - das absichtliche und wiederholte Behinderndes von anderen Spielern, um ihr Spielerlebnis zu verderben.\nBitte beachte diese Regeln sorgfältig, um ein faires und angenehmes Spielerlebnis für alle auf dem Server zu gewährleisten. \nVerstöße gegen diese Regeln können zu Sanktionen führen. \nVielen Dank für deine Kooperation!",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+          "imageurl": "https://i.imgur.com/a/LJFNSVM.png"
         }
       }
     ],
     "links": [
       {
         "link1": {
-          "text": "Link to Wiki",
-          "url": "https://github.com/DC-Modding/WBUI2-Wiki/wiki"
+          "text": "Discord",
+          "url": "http://discord.irrenhaus.tech/"
         }
       }
     ]
